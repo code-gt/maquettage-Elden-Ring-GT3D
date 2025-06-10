@@ -18,4 +18,8 @@
 
 ## Bonus
 
-- Le formulaire d'abonnment du `footer` doit enregistrer l'email saisi dans une base de données SQL.
+- Le formulaire d'abonnement du `footer` doit enregistrer l'email saisi dans une base de données SQL.
+
+## Maquette
+
+![Maquette](img/maquette-finale-elden-ring.jpg)
