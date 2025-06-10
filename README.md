@@ -6,7 +6,7 @@
 
 - Libre à vous d'utilisez un framework type Bootstrap ou non.
 
-- Un maximum d'aides et de consignes sont données dans les fichiers `index.html`, `style.css et `main.js`. **Merci de les lire !**
+- Un maximum d'aides et de consignes sont données dans les fichiers `index.html`, `style.css` et `main.js`. **Merci de les lire !**
 
 - Les textes sont fournis dans le dosier `textes`
 
