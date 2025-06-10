@@ -10,9 +10,9 @@
 
 - Les textes sont fournis dans le dosier `textes`
 
-- Le header à une vidéo en background.
+- Le header a une vidéo en background (un lien codepen vous aidera à mettre cela en place).
 
-- La section *Le nouveau chef d'oeuvre* inclut un parallax.
+- La section *Le nouveau chef d'oeuvre* inclut un parallax (un lien d'aide est fourni).
 
 - Le bouton CTA situé en bas à gauche de la maquette doit être toujours visible au scroll. Au clic dessus, le popup suivant apparait :
 
