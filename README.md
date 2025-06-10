@@ -10,6 +10,10 @@
 
 - Les textes sont fournis dans le dosier `textes`
 
+- Le header à une vidéo en background.
+
+- La section *Le nouveau chef d'oeuvre* inclut un parallax.
+
 - Le bouton CTA situé en bas à gauche de la maquette doit être toujours visible au scroll. Au clic dessus, le popup suivant apparait :
 
 ![Popup](img/bouton-cta.png)
